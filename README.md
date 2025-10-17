@@ -1,4 +1,4 @@
-<h1>Hi, I'm Henrique! <br/><a href="https://github.com/henriqueb-data">Data Curious</a>, <a href="https://www.linkedin.com/in/henriquebarbosa08/">Data Science and Analytics Professional | MBA/MSc</a></h1>
+<h1>Hi, I'm Henrique! <br/><a href="https://github.com/henriqueb-data">Data Curious</a>, <a href="https://www.linkedin.com/in/henriquebarbosa08/">Data Science and Analytics Professional</a></h1>
 
 <!--
 **henriqueb-data/henriqueb-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
