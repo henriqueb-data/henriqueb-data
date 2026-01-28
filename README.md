@@ -1,9 +1,15 @@
 <h1>Hi, I'm Henrique! <br/><a href="https://github.com/henriqueb-data">Data Curious</a>, <a href="https://www.linkedin.com/in/henriquebarbosa08/">Data Science and Analytics Professional</a></h1>
-<h2>👨‍💻 Data Modeling Projects:</h2>
+<h2>👨‍💻 Data Modeling and Analysis Projects:</h2>
 
 - <b>Exploratory Data Analysis</b>
   - [FoodHub Order Data – Exploratory Data Analysis in Python](https://github.com/henriqueb-data/exploratory-data-analysis-foodhub)
 
+- <b>Classification Models</b>
+  - [Credit Card Churn – Classification in Python](https://github.com/henriqueb-data/classification-credit-card-churn)
+  - [Likelihood to Purchase Loan – Classification in Python](https://github.com/henriqueb-data/classification-likelihood-to-purchase-loan)
+
+ - <b>Sentiment Analysis Models</b>
+  - [NASDAQ Stocks – Sentiment Analysis in Python](https://github.com/henriqueb-data/sentiment-analysis-nasdaq-stocks)
 <!--
 **henriqueb-data/henriqueb-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
