@@ -9,7 +9,7 @@
   - [Likelihood to Purchase Loan – Classification in Python](https://github.com/henriqueb-data/classification-likelihood-to-purchase-loan)
 
  - <b>Sentiment Analysis Models</b>
-  - [NASDAQ Stocks – Sentiment Analysis in Python](https://github.com/henriqueb-data/sentiment-analysis-nasdaq-stocks)
+    - [NASDAQ Stocks – Sentiment Analysis in Python](https://github.com/henriqueb-data/sentiment-analysis-nasdaq-stocks)
 
 
 
